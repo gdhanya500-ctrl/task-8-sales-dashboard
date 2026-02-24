@@ -1,0 +1,4 @@
+1. Central region generated the highest total sales among all regions.
+2. Sales show a declining trend over the months.
+3. Technology category contributes the largest share of total sales.
+4. East region has the lowest sales performance.
